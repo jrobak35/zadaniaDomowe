@@ -1,3 +1,8 @@
+# Zadanie 2: Operacje na bazach danych
+
+# Napisz skrypt, który łączy się z bazą danych (np. SQLite3),
+# wykonuje kilka prostych zapytań SQL (np. SELECT, INSERT, DELETE) i zwraca wyniki w postaci print.
+
 import sqlite3
 
 connection = sqlite3.connect('OurDataBaseTest.db')
