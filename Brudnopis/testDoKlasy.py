@@ -1,4 +1,4 @@
-from pakiet import klasa as k
+from Brudnopis import klasa as k
 
 czlowiek1 = k.Human()
 czlowiek1.powitanie()
